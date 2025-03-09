@@ -1,4 +1,4 @@
-Insurance Data Analysis Project
+**Insurance Data Analysis Project**
 
 Overview
 
