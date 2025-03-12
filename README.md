@@ -4,6 +4,9 @@
 
 This project analyzes insurance data using SQL Server and Power BI to provide insights into policy types, claims, and customer demographics. The dataset is imported into SQL Server using the Import Flat File feature, and Power BI is connected through the SQL Server option. The project includes various visualizations, interactive features, and security measures to enhance data analysis and decision-making.
 
+## Dashboard Link:
+https://app.powerbi.com/groups/b2df58d6-e19f-4c9a-9851-8bfd96681a1d/dashboards/63ac08b1-aa95-4b4f-bf8f-8494fa56c2b8?experience=power-bi
+
 ## Source: 
 - **SSMS Database**
   
